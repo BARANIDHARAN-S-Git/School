@@ -1,0 +1,8 @@
+1)Cretae Database School.
+2)Use Database School to create Table.
+3)Create Table Student with columns:RegisterNumber,StudentName,Age.
+4)Create Table Subjects with columns:SubjectId,SubjectName.
+5)Create Table Class with Columns:classRoomNo,NoOfStudentsInClass.
+6)Create Index For Student,Subject and Class Table.
+7)Insert Values into the Student,Subject and Class.
+8)Display all the Tables with the Inserted Values.
