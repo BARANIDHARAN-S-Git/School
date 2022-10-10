@@ -1,3 +1,5 @@
+GithubLink:https://github.com/BARANIDHARAN-S-Git/School
+------------------------------------------------------------------
 1)Cretae Database School.
 2)Use Database School to create Table.
 3)Create Table Student with columns:RegisterNumber,StudentName,Age.
