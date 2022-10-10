@@ -1,11 +1,12 @@
 create database School
+
 use School
+
 create table Student
 (
 RegisterNumber int primary key,
 StudentName varchar(30),
 Age int
-
 )
 create table Subjects
 (
@@ -39,4 +40,4 @@ insert into class values(3,45)
 
 select*from Student
 select*from Subjects
-select*from class
+select*from Class
